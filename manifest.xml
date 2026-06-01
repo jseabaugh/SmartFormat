@@ -21,7 +21,7 @@
   </Hosts>
 
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://jseabaugh.github.io/SmartFormat/src/taskpane.html"/>
+    <SourceLocation DefaultValue="https://jseabaugh.github.io/SmartFormat/taskpane.html"/>
   </DefaultSettings>
 
   <Permissions>ReadWriteDocument</Permissions>
@@ -76,8 +76,8 @@
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
-        <bt:Url id="Commands.Url" DefaultValue="https://jseabaugh.github.io/SmartFormat/src/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://jseabaugh.github.io/SmartFormat/src/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://jseabaugh.github.io/SmartFormat/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://jseabaugh.github.io/SmartFormat/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Get started with Smart Format!"/>
